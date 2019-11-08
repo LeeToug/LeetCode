@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494a795d-7a30-4c8f-a345-fd915dadc883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Recursion/1137.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/20.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlackTrack/22.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/21.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +24,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\LeetCode\BlackTrack" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573114534617</updated>
-      <workItem from="1573114535669" duration="8334000" />
+      <workItem from="1573114535669" duration="19704000" />
     </task>
     <servers />
   </component>
