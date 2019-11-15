@@ -1,6 +1,14 @@
 <?php
-include_once './String/20.php';
+$day = 1;
+$num = 1;
+echo a($day,$num);exit;
+function a($day,$num){
+    if($day==10){
+        return 1;
+    }
+    $day += 1;
+    $num = ($num+1)*2;
 
-$s = "()";
-$result = isValid($s);
-var_dump($result);exit;
+    return a($day,$num);
+
+}
