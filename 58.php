@@ -8,6 +8,6 @@ function lengthOfLastWord($s) {
             unset($arr_s[$k]);
         }
     }
-    var_dump($arr_s[0]);exit;.
+
     return strlen($arr_s[count($arr_s)-1]);
 }
